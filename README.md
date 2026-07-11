@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=18&pause=1000&color=ff8800&center=true&vCenter=true&width=900&lines=Hi+there,+I'm+Siddhant!+%F0%9F%91%8B;Data+Science+Student;Tech+enthusiast;Always+Learning+%26+Building" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=24&pause=1000&color=ff8800&center=true&vCenter=true&width=850&lines=Hi+there,+I'm+Siddhant!+%F0%9F%91%8B;Data+Science+Student;Tech+enthusiast;Always+Learning+%26+Building" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -12,7 +12,10 @@
 <table width="100%" align="center">
   <tr>
     <td width="60%">
-      <h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien%20Monster.png" width="30" /> About Me</h2>
+      <h1>
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien%20Monster.png" width="35" align="center" /> 
+        <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=18&color=ff8800&vCenter=true&width=300&lines=About+Me" alt="About Me" align="center" />
+      </h1>
       <p>
         <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" width="25" /> Pursuing a <b>B.Sc. in Data Science & Analytics</b> at R.A. Podar College.<br><br>
         <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Scroll.png" width="25" /> Certified in <b>IBM Data Science</b>.<br><br>
@@ -30,18 +33,16 @@
 <!-- Animated Orange Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="30" /> Tech Arsenal</h2>
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="40" align="center" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=24&color=ff8800&center=true&vCenter=true&width=400&lines=Tech+Arsenal" alt="Tech Arsenal" align="center" />
+</h1>
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,r,c,html,css,sql,linux,git,github&perline=9" />
-  </a>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=python,r,c,html,css,sql,linux,git,github&perline=9" /></a>
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" /> <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" /> <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" /> <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" />
 </p>
 
 <!-- Animated Orange Divider -->
@@ -50,11 +51,19 @@
 <table width="100%">
   <tr>
     <td width="50%" align="center">
-      <h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Bar%20Chart.png" width="30" /> GitHub Stats</h2>
+      <h1>
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Bar%20Chart.png" width="35" align="center" />
+        <br>
+        <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=16&color=ff8800&center=true&vCenter=true&width=300&lines=GitHub+Stats" alt="GitHub Stats" align="center" />
+      </h1>
       <img src="https://github-readme-stats.vercel.app/api?username=siddhant-003&show_icons=true&theme=tokyonight&hide_border=true" width="100%" />
     </td>
     <td width="50%" align="center">
-      <h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Fire.png" width="30" /> Current Streak</h2>
+      <h1>
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Fire.png" width="35" align="center" />
+        <br>
+        <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=16&color=ff8800&center=true&vCenter=true&width=300&lines=Current+Streak" alt="Current Streak" align="center" />
+      </h1>
       <img src="https://streak-stats.demolab.com/?user=siddhant-003&theme=tokyonight&hide_border=true" width="100%" />
     </td>
   </tr>
