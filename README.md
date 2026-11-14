@@ -1,4 +1,4 @@
-<h1 data-importer="text" align="center">Hey 👋What's Up?</h1>
+<h1 data-importer="text" align="center">Welcome  !!!</h1>
 
 ###
 
@@ -30,6 +30,25 @@
 
 ###
 
-<p data-importer="text" align="left">Pursuing a B.Sc. in Data Science & Analytics at R.A. Podar College.<br><br> Certified in IBM Data Science.<br><br> Deeply interested in Cybersecurity & ethical hacking tools on Kali Linux.<br><br> AFK: Sticking to my PPL gym split or dominating in CS2, RDR2, & GTA V.</p>
+<div data-importer="stats" align="center">
+  <img src="https://streak-stats.demolab.com?user=Siddhant-003&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://raw.githubusercontent.com/Siddhant-003/Siddhant-003/trophy-output/trophy.svg?theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+</div>
+
+###
+
+<picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Siddhant-003/Siddhant-003/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Siddhant-003/Siddhant-003/pacman-output/pacman-contribution-graph.svg?game=pacman">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Siddhant-003/Siddhant-003/pacman-output/pacman-contribution-graph.svg?game=pacman">
+</picture>
+
+###
+
+<p data-importer="text" align="left">Pursuing a B.Sc. in Data Science & <br>Analytics at R.A. Podar College.<br><br>Certified in IBM Data Science</p>
+
+###
+
+<img data-importer="snake" src="https://raw.githubusercontent.com/Siddhant-003/Siddhant-003/snake-output/snake.svg" alt="Snake animation" />
 
 ###
